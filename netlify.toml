@@ -10,7 +10,7 @@ LANDING_DESCRIPTION = "A 3d blog about things that are oddly specific."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "Hello-World."
 # (Optional) Site title on landing page
-LANDING_TITLE = ""Wait that worked last time I tried it!""
+LANDING_TITLE = "Wait that worked last time I tried it!"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/git-submariner/oddlyspecific"
