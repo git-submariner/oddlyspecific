@@ -58,6 +58,3 @@ providers = [
   "bing",
   "yandex",
 ]
-
-[functions.api_payment]
-require("./publish.js")
