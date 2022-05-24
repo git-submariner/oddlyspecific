@@ -1,0 +1,1 @@
+This is the open journal by [Pasi](https://santaella.de/), [Jan](https://janeisenbach.de/portfolio) & [Leon](https://leonmonschauer.de/). We document our digital findings and learnings. Maybe it's useful for you!
