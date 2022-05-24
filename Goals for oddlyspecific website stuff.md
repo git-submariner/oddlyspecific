@@ -1,0 +1,4 @@
+- [x] Don't open new tab on graph click
+- [ ] Comment section
+- [ ] Move graph to sidebar or bottom of page (force)
+- [ ] Figure out how to auto publish new commits
