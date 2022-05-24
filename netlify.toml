@@ -4,18 +4,18 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Let's go!"
+LANDING_BUTTON = "Click to steal some👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "A 3d blog about things that are oddly specific."
+LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Hello-World."
+LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Wait that worked last time I tried it!"
+LANDING_TITLE = "I love obsidian-zola! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/git-submariner/oddlyspecific"
 # (Optional) Site title in navbar
-SITE_TITLE = "oddlyspecific"
+SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
@@ -35,26 +35,3 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
-
-
-
-[[plugins]]
-package = "netlify-plugin-submit-sitemap"
-
-[plugins.inputs]
-
-# The base url of your site (optional, default = main URL set in Netlify)
-baseUrl = "https://oddlyspecific.netlify.app/"
-
-# Path to the sitemap URL (optional, default = /sitemap.xml)
-sitemapPath = "/sitemap.xml"
-
-# Time in seconds to not submit the sitemap after successful submission
-ignorePeriod = 0
-
-# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
-providers = [
-  "google",
-  "bing",
-  "yandex",
-]
