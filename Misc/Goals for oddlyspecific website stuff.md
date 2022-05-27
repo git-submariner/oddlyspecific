@@ -1,4 +1,4 @@
 - [x] Don't open new tab on graph click -> edited Graph  "_blank" statement
 - [x] Comment section -> Giscus implementation
-- [ ] Move graph to sidebar of page (force)
+- [x] Move graph to sidebar of page (force)
 - [ ] Figure out how to auto publish new commits on Netify

@@ -1,4 +1,3 @@
-# WIP - We are just getting started
 If you are reading this you've arrived before the knowledge. Maybe come back later and see, if we've added some content.
 
 

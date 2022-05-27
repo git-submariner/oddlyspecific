@@ -1,4 +1,4 @@
-# The table of contents for Houdini
+# The table of contents for Redshift
 - [[Good Redshift Resources]]
 
 ---
