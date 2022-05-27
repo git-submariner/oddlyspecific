@@ -2,5 +2,3 @@
 - [x] Comment section -> Giscus implementation
 - [ ] Move graph to sidebar of page (force)
 - [ ] Figure out how to auto publish new commits on Netify
-- [ ] Restyle site if needed
-	- [ ] Make focus node smaller
