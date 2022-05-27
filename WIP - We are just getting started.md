@@ -1,6 +1,6 @@
-# The table of contents for Houdini
-- [[Good Houdini Resources]]
-- [[Turn On Houdini Auto Save By Default]]
+# WIP - We are just getting started
+If you are reading this you've arrived before the knowledge. Maybe come back later and see, if we've added some content.
+
 
 ---
 

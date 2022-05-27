@@ -1,6 +1,8 @@
-# The table of contents for Houdini
-- [[Good Houdini Resources]]
-- [[Turn On Houdini Auto Save By Default]]
+# Good [[Redshift]] Resources
+Here you can find some resources that helped me learn and still help me understand all of this better.
+
+## YouTube Channel Content
+- [BlueFox Creation](https://www.youtube.com/c/BLUEFOXCreations) - not only [[Redshift]], but very good to learn some oddly specific use cases with [[Redshift]]
 
 ---
 
