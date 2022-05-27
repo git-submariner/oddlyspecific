@@ -3,4 +3,4 @@
 - [ ] Move graph to sidebar of page (force)
 - [ ] Figure out how to auto publish new commits on Netify
 - [ ] Restyle site if needed
-- [ ] Github Discussions without Account?
+	- [ ] Make focus node smaller
