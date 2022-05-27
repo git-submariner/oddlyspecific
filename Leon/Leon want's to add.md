@@ -1,0 +1,35 @@
+- [ ] VEX Library
+	- [ ] Babel note
+- [ ] HDA Library
+	- [ ] Proxy Maker
+	- [ ] Better filecache
+	- [ ] Redshift target light
+	- [ ] Fast ROP & MAT setup
+	- [ ] Bake camera for export
+	- [ ] "OUT_" Null
+	- [ ] rs Material Setups
+	- [ ] Stamp textures (intertwined with tutorial setup)
+- [ ] More resources
+	- [ ] YouTube (Simon Houdini etc.)
+	- [ ] Vimeo
+	- [ ] Websites
+- [ ] My preferred UI Setup
+
+---
+## If I start with tutorials, this is what you might need to expect
+- [ ] Setups
+	- [ ] How to dejitter lines (and draw them in the first place)
+	- [ ] Map pull apart (Convert image to spline)
+	- [ ] Self balancing machine
+	- [ ] Import .csv in a useful way
+	- [ ] Binary converter
+	- [ ] Quick playing cards
+	- [ ] Photoscan pipeline workflows
+	- [ ] Coin flip
+	- [ ] Germany RKI Corona viz
+	- [ ] Build struts for 3d printing
+	- [ ] Chladnic shapes
+	- [ ] Rain trailing (the shitty version)
+	- [ ] Handwritten fonts
+	- [ ] OSM Data and landscape automation
+- [ ] Tutorials note in babel
