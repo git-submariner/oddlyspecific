@@ -5,8 +5,6 @@ Currently we are documenting our work separately. We are working mainly with [[H
 
 If you have any questions, feel free to paste them below!
 
-Test me
-
 ---
 
 <script src="https://giscus.app/client.js"
