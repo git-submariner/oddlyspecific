@@ -1,6 +1,8 @@
 # The table of contents for Houdini
 - [[Good Houdini Resources]]
 - [[Turn On Houdini Auto Save By Default]]
+- [[How to dejitter simulated lines (and draw them in the first place)]]
+
 - [[Leon wants to add]]
 
 ---

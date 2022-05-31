@@ -18,11 +18,12 @@
 ---
 ## If I start with tutorials, this is what you might need to expect
 - [ ] Setups
-	- [ ] How to dejitter lines (and draw them in the first place)
+	- [ ] [[How to dejitter simulated lines (and draw them in the first place)]]
 	- [ ] Map pull apart (Convert image to spline)
 	- [ ] Self balancing machine
 	- [ ] Import .csv in a useful way
 	- [ ] Binary converter
+	- [ ] Strom Stuff (Landscape, Ionen etc.)
 	- [ ] Quick playing cards
 	- [ ] Photoscan pipeline workflows
 	- [ ] Coin flip
@@ -32,4 +33,5 @@
 	- [ ] Rain trailing (the shitty version)
 	- [ ] Handwritten fonts
 	- [ ] OSM Data and landscape automation
+	- [ ] Selfmade Guided Growth Solver #61 (Check if Entagma did that already lol)
 - [ ] Tutorials note in babel
