@@ -10,10 +10,15 @@
 	- [ ] rs Material Setups
 	- [ ] Stamp textures (intertwined with tutorial setup)
 - [ ] More resources
-	- [ ] YouTube (Simon Houdini etc.)
+	- [ ] YouTube
 	- [ ] Vimeo
 	- [ ] Websites
 - [ ] My preferred UI Setup
+- [ ] Note describing how this Page is setup and how the customizations came about
+	- [ ] Motivation
+	- [ ] Team
+	- [ ] Hurdles (finding the right approach, .css, Auto Deploy, Comments) 
+	- [ ] Benefits (collab, scalability, custom shit) 
 
 ---
 ## If I start with tutorials, this is what you might need to expect
@@ -27,6 +32,7 @@
 	- [ ] Quick playing cards
 	- [ ] Photoscan pipeline workflows
 	- [ ] Coin flip
+	- [ ] Lego Ocean
 	- [ ] Germany RKI Corona viz
 	- [ ] Build struts for 3d printing
 	- [ ] Chladnic shapes
