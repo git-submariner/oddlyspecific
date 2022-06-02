@@ -34,7 +34,7 @@
 	- [ ] Coin flip
 	- [ ] Lego Ocean
 	- [ ] Germany RKI Corona viz
-	- [ ] Build struts for 3d printing
+	- [ ] Build struts for 3d printing (distance fixer)
 	- [ ] Chladnic shapes
 	- [ ] Rain trailing (the shitty version)
 	- [ ] Handwritten fonts
