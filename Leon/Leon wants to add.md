@@ -40,5 +40,5 @@
 	- [ ] Handwritten fonts
 	- [ ] OSM Data and landscape automation
 	- [ ] Selfmade Guided Growth Solver #61 (Check if Entagma did that already lol)
-	- [ ] Selfmade Tiltbrush in VR and everythind that comes with it
+	- [ ] Selfmade Tiltbrush in VR and everything that comes with it -> YouTube Series and Sidequest Goal?
 - [ ] Tutorials note in babel
