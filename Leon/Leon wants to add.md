@@ -34,10 +34,11 @@
 	- [ ] Coin flip
 	- [ ] Lego Ocean
 	- [ ] Germany RKI Corona viz
-	- [ ] Build struts for 3d printing (distance fixer)
+	- [ ] Build struts for 3d printing (distance fixer and recursive solving HDA)
 	- [ ] Chladnic shapes
 	- [ ] Rain trailing (the shitty version)
 	- [ ] Handwritten fonts
 	- [ ] OSM Data and landscape automation
 	- [ ] Selfmade Guided Growth Solver #61 (Check if Entagma did that already lol)
+	- [ ] Selfmade Tiltbrush in VR and everythind that comes with it
 - [ ] Tutorials note in babel
