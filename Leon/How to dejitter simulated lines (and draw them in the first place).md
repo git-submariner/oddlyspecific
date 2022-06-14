@@ -33,7 +33,31 @@ To get the velocity I calculated the movement depending on the nearest point of 
 After calculation I transferred the velocity (based on the nearest point) of the previous frame to my current line, to get a direkt comparison. It's kind of mesmerizing how you can see where chaos emerges and how a uniform direction keeps the line clear and nice. 
 ==GIF/Video of jittering lines==
 
+After setting up indicators, I was ready to solve to problem.
 
+## 1. Attempt
+My first idea was to find the line parts that are jittering by checking their velocity over time. I already built the visualiser, now I just need to modify it. To get the desired result, I multiplied the two visualiser vectors with eachother. The result would give a third vector which either appears rather small or rather large. I then defined a threshold under which the points would be classified as "jittering". The Generated group is then smoothed in the hope to cancel out the local jitter.
+
+### 1. Result
+Sadly that didn't really do the trick, as the jittering was still present. The point count changed to much over time, therefore the line was drifting all over the place. The isolated smoothing reduced to irregularities on a still frame, but in motion it still appeared hectic.
+
+## 2. Attempt
+My second idea was to calculate the angle in which the points are related to eachother on the line. The goal was to dampen that angle if it exceeds a certain threshold. In hindsight, it's not really more than a different angle on the 1. Attempt, but it felt like good idea in that moment. 
+I think I've found about 5-6 variations to acquire the same group of points, maybe there will be use cases where only one of them does the trick. Other than that I'm just telling myself all this time is not totally wasted.
+
+### 2. Result
+See 1. Result but in visually slightly different.
+
+## 3. Attempt
+Now I was somewhere between desperate and cheeky, as my idea was to just force a constant point count. Easily done by resampling the line with a fixed segment count. I looked at the last frame and upped the number until it compared to the actual simulation quality wise.
+Only now I actually understood what is going on with the line. Reading all of this some of you might maybe go like "duh obvious you are doing x and that results in y", but if you are so far off the deep and like I was, sometimes you struggle to see the obvious.
+The line was expanding all over the place. Imagine blowing up a balloon with even smaller balloons scattered on it's surface. Due to the randomness of line growth you can't really fixate a certain point on the line, as it's relations and partitions change without logic or causality. In simple words: Stuff is all over the place.
+
+### 3. Result
+No improvement here - I just realized (maybe not so) obvious things.
+
+## 3.1 Attempt
+Now it's getting overcomplicated 
 
 
 

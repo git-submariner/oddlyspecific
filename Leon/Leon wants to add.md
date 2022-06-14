@@ -38,7 +38,11 @@
 	- [ ] Chladnic shapes
 	- [ ] Rain trailing (the shitty version)
 	- [ ] Handwritten fonts
-	- [ ] OSM Data and landscape automation
 	- [ ] Selfmade Guided Growth Solver #61 (Check if Entagma did that already lol)
 	- [ ] Selfmade Tiltbrush in VR and everything that comes with it -> YouTube Series and Sidequest Goal?
+	- [ ] Getting started with osm data when you have no idea what you are doing
+		- [ ] OSM Data and landscape automation
+		- [ ] Mapbox
+		- [ ] Toner
+		- [ ] Houdini Workflow 
 - [ ] Tutorials note in babel
