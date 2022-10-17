@@ -1,4 +1,6 @@
 # The table of contents for Unreal Engine 4
+- [[Creating and adding a widget to the viewport]]
+- [[Practically using fInterp and vInterp to make a widget follow our mouse (with smooth interpolation)]]
 - [[Pascal wants to add]]
 
 ---
