@@ -7,6 +7,10 @@ If you have any questions, feel free to paste them below!
 
 ---
 
+# Check out our [[Instagram]], [[YouTube]] & [[TikTok]]!
+
+---
+
 <script src="https://giscus.app/client.js"
         data-repo="git-submariner/oddlyspecific"
         data-repo-id="R_kgDOHY5lmg"
