@@ -11,7 +11,7 @@ If you have any questions, feel free to paste them below!
 
 <a href="https://www.instagram.com/shortlyspecific/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram shortlyspecific" width="10%" height="10%"></a><br>
 <a href="https://www.tiktok.com/@shortlyspecific"><img src="https://freelogopng.com/images/all_img/1655890216tiktok-logo-png-white.png" alt="TikTok shortlyspecific" width="10%" height="10%"></a><br>
-<a href="https://www.youtube.com/channel/UCxOZyiQyJWiCSUR9A_0qbbw"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/YouTube_light_logo_%282017%29.svg"alt="YouTube shortlyspecific" width="35%" height="35%"></a>
+<a href="https://www.youtube.com/channel/UCxOZyiQyJWiCSUR9A_0qbbw"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/YouTube_light_logo_%282017%29.svg"alt="YouTube shortlyspecific" width="35%" height="35%"></a><br>
 
 
 ---
