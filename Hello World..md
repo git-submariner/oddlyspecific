@@ -1,5 +1,12 @@
 This is the open journal by [Pasi](https://santaella.de/), [Jan](https://janeisenbach.de/portfolio) & [Leon](https://leonmonschauer.de/). We document our digital findings and learnings. Maybe it's useful for you!
 
+# News
+
+Leon and Pasi are currently preparing for their exhibition of [[Fragments of a dream]] at Niehler Freiheit in Cologne:
+
+![[Fragments_Poster.mp4]]
+
+
 # Content
 Currently we are documenting our work separately. We are working mainly with [[Houdini]], [[Cinema 4D]] & [[Unreal Engine]] and render with [[Redshift]] & [[Octane]]. You can find our seperated Notes in the respective Folders on the left, the hub pages will help you as an index and starting point. 
 
