@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>oddlyspecific</title>
+      <link>https://oddlyspecific.de</link>
+      <description>Last 10 notes on oddlyspecific</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Fragments of a Dream</title>
+    <link>https://oddlyspecific.de/projects/Fragments-of-a-Dream</link>
+    <guid>https://oddlyspecific.de/projects/Fragments-of-a-Dream</guid>
+    <description> …is a project by Leon Monschauer and Pascal Santaella reflecting the feeling with which a dream sometimes leaves us behind. Somehow lost, somehow incomplete - but stunningly beautiful.</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>Good Houdini Resources</title>
+    <link>https://oddlyspecific.de/resources/Good-Houdini-Resources</link>
+    <guid>https://oddlyspecific.de/resources/Good-Houdini-Resources</guid>
+    <description>Here you can find some resources that helped me learn and still help me understand all of this better. Blog Style Content Entagma - If you want to understand understanding and also a little bit of Houdini, watch everything they make John Kunz- Crazy talented guy.</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>Good Redshift Resources</title>
+    <link>https://oddlyspecific.de/resources/Good-Redshift-Resources</link>
+    <guid>https://oddlyspecific.de/resources/Good-Redshift-Resources</guid>
+    <description>Here you can find some resources that helped me learn and still help me understand all of this better. YouTube Channel Content BlueFox Creation - not only Redshift, but very good to learn some oddly specific use cases with Redshift .</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>WIP - We are just getting started</title>
+    <link>https://oddlyspecific.de/misc/WIP---We-are-just-getting-started</link>
+    <guid>https://oddlyspecific.de/misc/WIP---We-are-just-getting-started</guid>
+    <description>If you are reading this you’ve arrived before the knowledge. Maybe come back later and see, if we’ve added some content.</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>Creating and adding a widget to the viewport</title>
+    <link>https://oddlyspecific.de/pascal/Creating-and-adding-a-widget-to-the-viewport</link>
+    <guid>https://oddlyspecific.de/pascal/Creating-and-adding-a-widget-to-the-viewport</guid>
+    <description>This may be basic but you may tend to forget to do this, so I’ll link this everywhere wehave to do it - sorry! Creating a Widget To start, let’s just create a Widget Blueprint via right-clicking ...</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>Pascal wants to add</title>
+    <link>https://oddlyspecific.de/pascal/Pascal-wants-to-add</link>
+    <guid>https://oddlyspecific.de/pascal/Pascal-wants-to-add</guid>
+    <description>What I need to tell you Interpolation notes in Unreal (fInterp Playground) Fixing the Unreal Engine VR Template Editor Utility Widgets for Batch Renaming and other File Stuff Building ...</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>Practically using fInterp and vInterp to make a widget follow our mouse (with smooth interpolation)</title>
+    <link>https://oddlyspecific.de/pascal/Practically-using-fInterp-and-vInterp-to-make-a-widget-follow-our-mouse-(with-smooth-interpolation)</link>
+    <guid>https://oddlyspecific.de/pascal/Practically-using-fInterp-and-vInterp-to-make-a-widget-follow-our-mouse-(with-smooth-interpolation)</guid>
+    <description>Would be great if you could just tell a Widget to go where you want it to go - and it would just work? Well, we’ll do exactly that. Interp your way to the top Lets start simple by Creating and adding a widget to the viewport Then, we’ll drag and drop an Image Widget into our Canvas Panel.</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>How to dejitter simulated lines (and draw them in the first place)</title>
+    <link>https://oddlyspecific.de/leon/How-to-dejitter-simulated-lines-(and-draw-them-in-the-first-place)</link>
+    <guid>https://oddlyspecific.de/leon/How-to-dejitter-simulated-lines-(and-draw-them-in-the-first-place)</guid>
+    <description>This is WIP - We are just getting started. I will add images, videos and project files later, as I’m currently writing this on my phone. This note is a rather funny one as the problem started nondescript: Prolog I was working on a project where the art director requested a drawn line, that is able to grow and dance on the floor.</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>How to overcomplicate a website or how I set this blog up</title>
+    <link>https://oddlyspecific.de/leon/How-to-overcomplicate-a-website-or-how-I-set-this-blog-up</link>
+    <guid>https://oddlyspecific.de/leon/How-to-overcomplicate-a-website-or-how-I-set-this-blog-up</guid>
+    <description>I started using Obsidian a few years ago for note taking. As I wanted to sync with my phone and computer and couldn’t spend the money, I set up a repo in GitHub and used that for the time being.</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item><item>
+    <title>Leon wants to add</title>
+    <link>https://oddlyspecific.de/leon/Leon-wants-to-add</link>
+    <guid>https://oddlyspecific.de/leon/Leon-wants-to-add</guid>
+    <description>...</description>
+    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

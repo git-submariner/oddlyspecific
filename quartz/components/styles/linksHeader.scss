@@ -1,0 +1,57 @@
+@use "../../styles/variables.scss" as *;
+
+header {
+  display: block;
+  margin-top: 1rem;
+
+  /* position: -webkit-sticky; // Safari
+  position: sticky;
+  top: 0;
+  z-index: 100; */
+}
+
+#sticky {
+
+}
+
+#sticky-header {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 1em;
+  font-size: 1em;
+  justify-content: space-between;
+  // margin: 0 0.2em;
+
+  background-color: var(--light);
+
+  padding: 0.2em;
+
+  span {
+    margin-top: 0em;
+  }
+
+  img {
+    height: 1em;
+    margin: 0 0.3em 0 0;
+    vertical-align: sub;
+  }
+
+  /* a {
+    color: var(--dark);
+  } */
+
+}
+
+@media #{$mobile, $tablet} {
+  #sticky-header > * {
+    width: calc(50% - 0.67em); /* 33.33% width with some gap */
+  }
+
+  #sticky-header > *:nth-child(2n-2) {
+    text-align: center;
+  }
+
+  #sticky-header > *:nth-child(2n) {
+    text-align: right;
+  }
+}

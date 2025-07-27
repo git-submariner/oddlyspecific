@@ -1,0 +1,53 @@
+---
+
+---
+
+
+- [ ] VEX Library
+	- [ ] Babel note
+- [ ] HDA Library
+	- [ ] Proxy Maker
+	- [ ] Better filecache
+	- [ ] Redshift target light
+	- [ ] Fast ROP & MAT setup
+	- [ ] Bake camera for export
+	- [ ] "OUT_" Null
+	- [ ] rs Material Setups
+	- [ ] Stamp textures (intertwined with tutorial setup)
+- [ ] More resources
+	- [ ] YouTube
+	- [ ] Vimeo
+	- [ ] Websites
+- [ ] My preferred UI Setup
+- [ ] Note describing how this Page is setup and how the customizations came about
+	- [ ] Motivation
+	- [ ] Team
+	- [ ] Hurdles (finding the right approach, .css, Auto Deploy, Comments) 
+	- [ ] Benefits (collab, scalability, custom shit) 
+
+---
+## If I start with tutorials, this is what you might need to expect
+- [ ] Setups
+	- [ ] [[How to dejitter simulated lines (and draw them in the first place)]]
+	- [ ] Map pull apart (Convert image to spline)
+	- [ ] Self balancing machine
+	- [ ] Import .csv in a useful way
+	- [ ] Binary converter
+	- [ ] Strom Stuff (Landscape, Ionen etc.)
+	- [ ] Quick playing cards
+	- [ ] Photoscan pipeline workflows
+	- [ ] Coin flip
+	- [ ] Lego Ocean
+	- [ ] Germany RKI Corona viz
+	- [ ] Build struts for 3d printing (distance fixer and recursive solving HDA)
+	- [ ] Chladnic shapes
+	- [ ] Rain trailing (the shitty version)
+	- [ ] Handwritten fonts
+	- [ ] Selfmade Guided Growth Solver #61 (Check if Entagma did that already lol)
+	- [ ] Selfmade Tiltbrush in VR and everything that comes with it -> YouTube Series and Sidequest Goal?
+	- [ ] Getting started with osm data when you have no idea what you are doing
+		- [ ] OSM Data and landscape automation
+		- [ ] Mapbox
+		- [ ] Toner
+		- [ ] Houdini Workflow 
+- [ ] Tutorials note in babel

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "ed63f132930c21fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c48eea9528b6ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e34da6b8ef660a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8625f77b4452b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbfb447f875695f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3791a2bb0178a389",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cec89a946c174c67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "715fe8b3f4371df3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "411b5f7c2c36b69d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3a70208c383227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea8a1e6e50396c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c02f23a8b52126d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "551d4072bffdb60f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a4ff317e01f83d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e34da6b8ef660a5",
+  "lastOpenFiles": [
+    "img/WidgetCreationConstructNone.png",
+    "img/vInterp_GetMouseOnViewport.png",
+    "img/InterpolateMouse.gif",
+    "img/Fragments_Shot_1 (2).png",
+    "img/Fragments_Poster.mp4",
+    "img/fInterpTo.png",
+    "img/finterp_ImageSetPosition.png",
+    "img/fInterp_GetMouseOnViewport.png",
+    "img/EventTickFinterp.png",
+    "img/CurrentValueFInterp.png",
+    "img/CreatingWidgetBlueprint.png",
+    "img/05_polyselection.jpg",
+    "index.md",
+    "misc/Goals for the oddlyspecific knowledgebase.md",
+    "projects/Fragments of a Dream.md",
+    "pascal/Practically using fInterp and vInterp to make a widget follow our mouse (with smooth interpolation).md",
+    "pascal/Pascal wants to add.md",
+    "pascal/Creating and adding a widget to the viewport.md",
+    "misc/WIP - We are just getting started.md",
+    "leon/Turn On Houdini Auto Save By Default.md",
+    "leon/Smooth Credit Scrolling in After Effects.md",
+    "leon/Leon wants to add.md",
+    "leon/How to overcomplicate a website or how I set this blog up.md",
+    "leon/How to dejitter simulated lines (and draw them in the first place).md",
+    "jan/Procedural Vertex Map to Poly Selection Conversion.md",
+    "hub/After Effects.md",
+    "hub/Cinema 4D.md",
+    "hub/Houdini.md",
+    "hub/Octane.md",
+    "hub/Redshift.md",
+    "hub/Unreal Engine.md",
+    "resources/Good Redshift Resources.md",
+    "resources/Good Houdini Resources.md",
+    "utility/Imprint.md",
+    "projects/TAO.md",
+    "hubs/Project Spotlight.md",
+    "hubs/Project Files.md",
+    "about",
+    "projects/experiments",
+    "images",
+    "utility",
+    "projects",
+    "hubs",
+    "projects/experiments",
+    "images"
+  ]
+}
