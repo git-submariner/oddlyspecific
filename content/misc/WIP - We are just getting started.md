@@ -1,11 +1,13 @@
 ---
 tags:
   - onboarding
+aliases:
+  - WIP 
 ---
-
 
 If you are reading this you've arrived before the knowledge. Maybe come back later and see, if we've added some content.
 
+Learn more about our [[Goals for the oddlyspecific knowledge base|goals for the oddlyspecific knowledge base]]!
 
 ---
 

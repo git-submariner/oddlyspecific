@@ -20,7 +20,7 @@ export default (() => {
             <a href="https://www.youtube.com/channel/UCxOZyiQyJWiCSUR9A_0qbbw">YouTube</a>
           </span>
           <span>
-            <a href="/misc/Goals-for-the-oddlyspecific-knowledgebase.html">The knowledgebase</a>
+            <a href="/misc/Goals-for-the-oddlyspecific-knowledge-base.html">The knowledge base</a>
           </span>
         </div>
         <hr style="margin: .2em; margin-top:0em; margin-bottom: 0em;"></hr>

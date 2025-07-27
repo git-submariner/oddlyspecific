@@ -6,7 +6,7 @@ tags:
 Here you can find some resources that helped me learn and still help me understand all of this better.
 
 ## Blog Style Content
-- [Entagma](https://entagma.com/) - If you want to understand understanding and also a little bit of [[Houdini]], watch everything they make
+- [Entagma](https://entagma.com/) - If you want to understand understanding & also a little bit of [[Houdini]], watch everything they make
 - [John Kunz](https://wiki.johnkunz.com/index.php?title=Main_Page)- Crazy talented guy. Great streams 5/5
 - [Toadstorm](https://www.toadstorm.com/blog/) - one of the classic people you'll come across when learning. You've maybe even seen [Oil And Water](https://www.toadstorm.com/blog/?p=652) before you even started learning [[Houdini]].
 - [Matt's (Tokeru) CG Wiki](https://www.tokeru.com/cgwiki/index.php?title=Main_Page) - The one wiki besides the Houdini Doc
@@ -19,10 +19,7 @@ Here you can find some resources that helped me learn and still help me understa
 - [Simon Houdini](https://youtube.com/channel/UCvuT2bzBB0kzne16DBAtmLQ) - procedural everything. Very nice!
 
 ## Vimeo Content
-- [Niels Prayer](https://vimeo.com/156396707) - very useful tutorials if you are inbetween beginner and intermediate
-
-## Discord Channels
-- [3d Wizards](https://discord.gg/2kaUU6qQpc) - Nice community if you want to get your questions answered
+- [Niels Prayer](https://vimeo.com/156396707) - very useful tutorials if you are in between beginner and intermediate
 
 ---
 

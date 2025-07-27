@@ -6,21 +6,16 @@ aliases:
   - Intro
 ---
 
-This is a knowledgebase by [Pasi](https://santaella.de/), [Jan](https://janeisenbach.de/portfolio) & [Leon](https://leonmonschauer.de/). We document our digital findings and learnings. Maybe it's useful for you!
+This is a knowledge base by [Pasi](https://santaella.de/), [Jan](https://janeisenbach.de/portfolio) & [Leon](https://leonmonschauer.de/). We document our digital findings and learnings. Maybe it's useful for you!
 
 Basically it's a blog about things that are _oddlyspecific_.
 
-# News
-
-Leon and Pasi are currently preparing for their exhibition of [[Fragments of a Dream]] at Niehler Freiheit in Cologne:
-
-![[Fragments_Poster.mp4]]
-
-
 # Content
-Currently we are documenting our work separately. We are working mainly with [[Houdini]], [[Cinema 4D]] & [[Unreal Engine]] and render with [[Redshift]] & [[Octane]]. You can find our seperated Notes in the respective Folders on the left, the hub pages will help you as an index and starting point. 
+Currently we are documenting our work separately. We are mainly working  with [[Houdini]], [[Cinema 4D]], [[Unreal Engine]] [[TouchDesigner]] & render with [[Redshift]] or [[Octane]]. You can find our separated notes in the respective folders on the left, the hub pages will help you as an index and starting point. 
 
 If you have any questions, feel free to paste them below!
+
+[[Goals for the oddlyspecific knowledge base]] are focused around collecting solutions that are sometimes non trivial & quite niche, as we've all had that feeling of being the only person in the world with that specific problem.
 
 ---
 
@@ -33,7 +28,7 @@ If you have any questions, feel free to paste them below!
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="preferred_color_scheme"
+        data-theme="dark"
         data-lang="en"
         crossorigin="anonymous"
         async>

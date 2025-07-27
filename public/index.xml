@@ -6,6 +6,18 @@
       <description>Last 10 notes on oddlyspecific</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>How to overcomplicate a website or how I set this blog up</title>
+    <link>https://oddlyspecific.de/leon/How-to-overcomplicate-a-website-or-how-I-set-this-blog-up</link>
+    <guid>https://oddlyspecific.de/leon/How-to-overcomplicate-a-website-or-how-I-set-this-blog-up</guid>
+    <description>How does this work? This website is powered by Obsidian and Quartz. I can highly recommend checking these tools out. Obsidian is a note taking app, that I use for my life in general.</description>
+    <pubDate>Sun, 27 Jul 2025 20:30:23 GMT</pubDate>
+  </item><item>
+    <title>TouchDesigner</title>
+    <link>https://oddlyspecific.de/hub/TouchDesigner</link>
+    <guid>https://oddlyspecific.de/hub/TouchDesigner</guid>
+    <description></description>
+    <pubDate>Sun, 27 Jul 2025 20:12:04 GMT</pubDate>
+  </item><item>
     <title>Fragments of a Dream</title>
     <link>https://oddlyspecific.de/projects/Fragments-of-a-Dream</link>
     <guid>https://oddlyspecific.de/projects/Fragments-of-a-Dream</guid>
@@ -15,7 +27,7 @@
     <title>Good Houdini Resources</title>
     <link>https://oddlyspecific.de/resources/Good-Houdini-Resources</link>
     <guid>https://oddlyspecific.de/resources/Good-Houdini-Resources</guid>
-    <description>Here you can find some resources that helped me learn and still help me understand all of this better. Blog Style Content Entagma - If you want to understand understanding and also a little bit of Houdini, watch everything they make John Kunz- Crazy talented guy.</description>
+    <description>Here you can find some resources that helped me learn and still help me understand all of this better. Blog Style Content Entagma - If you want to understand understanding &amp; also a little bit of Houdini, watch everything they make John Kunz- Crazy talented guy.</description>
     <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
   </item><item>
     <title>Good Redshift Resources</title>
@@ -27,7 +39,7 @@
     <title>WIP - We are just getting started</title>
     <link>https://oddlyspecific.de/misc/WIP---We-are-just-getting-started</link>
     <guid>https://oddlyspecific.de/misc/WIP---We-are-just-getting-started</guid>
-    <description>If you are reading this you’ve arrived before the knowledge. Maybe come back later and see, if we’ve added some content.</description>
+    <description>If you are reading this you’ve arrived before the knowledge. Maybe come back later and see, if we’ve added some content. Learn more about our goals for the oddlyspecific knowledge base! .</description>
     <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
   </item><item>
     <title>Creating and adding a widget to the viewport</title>
@@ -51,19 +63,7 @@
     <title>How to dejitter simulated lines (and draw them in the first place)</title>
     <link>https://oddlyspecific.de/leon/How-to-dejitter-simulated-lines-(and-draw-them-in-the-first-place)</link>
     <guid>https://oddlyspecific.de/leon/How-to-dejitter-simulated-lines-(and-draw-them-in-the-first-place)</guid>
-    <description>This is WIP - We are just getting started. I will add images, videos and project files later, as I’m currently writing this on my phone. This note is a rather funny one as the problem started nondescript: Prolog I was working on a project where the art director requested a drawn line, that is able to grow and dance on the floor.</description>
-    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
-  </item><item>
-    <title>How to overcomplicate a website or how I set this blog up</title>
-    <link>https://oddlyspecific.de/leon/How-to-overcomplicate-a-website-or-how-I-set-this-blog-up</link>
-    <guid>https://oddlyspecific.de/leon/How-to-overcomplicate-a-website-or-how-I-set-this-blog-up</guid>
-    <description>I started using Obsidian a few years ago for note taking. As I wanted to sync with my phone and computer and couldn’t spend the money, I set up a repo in GitHub and used that for the time being.</description>
-    <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
-  </item><item>
-    <title>Leon wants to add</title>
-    <link>https://oddlyspecific.de/leon/Leon-wants-to-add</link>
-    <guid>https://oddlyspecific.de/leon/Leon-wants-to-add</guid>
-    <description>...</description>
+    <description>This is WIP. I will add images, videos and project files later, as I’m currently writing this. This note is a rather funny one as the problem started nondescript: Prolog I was working on a project where the art director requested a drawn line, that is able to grow and dance on the floor.</description>
     <pubDate>Sun, 27 Jul 2025 14:31:39 GMT</pubDate>
   </item>
     </channel>

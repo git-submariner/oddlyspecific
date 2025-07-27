@@ -23,3 +23,5 @@ So, enjoy your stay if you see it live, as much as we enjoy it ourselves!
 
 If you are interested in the project or what we are up to, feel free to visit this website from time to time or follow us on [Instagram](https://www.instagram.com/shortlyspecific/) or [TikTok](https://www.tiktok.com/@shortlyspecific)
 
+![[Fragments_Poster.mp4]]
+

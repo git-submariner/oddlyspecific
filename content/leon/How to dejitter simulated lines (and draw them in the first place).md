@@ -3,7 +3,7 @@ tags:
   - Houdini
 ---
 
-This is [[WIP - We are just getting started]]. I will add images, videos and _project files_ later, as I'm currently writing this on my phone. 
+This is [[WIP - We are just getting started|WIP]]. I will add images, videos and _project files_ later, as I'm currently writing this. 
 
 ---
 
@@ -62,7 +62,7 @@ The line was expanding all over the place. Imagine blowing up a balloon with eve
 No improvement here - I just realized (maybe not so) obvious things.
 
 ## 3.1 Attempt
-Now it's getting overcomplicated 
+Now it's getting overcomplicated...
 
 
 
