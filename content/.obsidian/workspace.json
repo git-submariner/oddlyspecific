@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "misc/Goals for the oddlyspecific knowledgebase.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Goals for the oddlyspecific knowledgebase"
             }
           }
         ]
@@ -167,6 +167,17 @@
   },
   "active": "6e34da6b8ef660a5",
   "lastOpenFiles": [
+    "hub/After Effects.md",
+    "leon/How to dejitter simulated lines (and draw them in the first place).md",
+    "resources/Good Redshift Resources.md",
+    "resources/Good Houdini Resources.md",
+    "projects/Fragments of a Dream.md",
+    "pascal/Practically using fInterp and vInterp to make a widget follow our mouse (with smooth interpolation).md",
+    "pascal/Pascal wants to add.md",
+    "pascal/Creating and adding a widget to the viewport.md",
+    "misc/WIP - We are just getting started.md",
+    "misc/Goals for the oddlyspecific knowledgebase.md",
+    "index.md",
     "img/WidgetCreationConstructNone.png",
     "img/vInterp_GetMouseOnViewport.png",
     "img/InterpolateMouse.gif",
@@ -178,28 +189,16 @@
     "img/EventTickFinterp.png",
     "img/CurrentValueFInterp.png",
     "img/CreatingWidgetBlueprint.png",
-    "img/05_polyselection.jpg",
-    "index.md",
-    "misc/Goals for the oddlyspecific knowledgebase.md",
-    "projects/Fragments of a Dream.md",
-    "pascal/Practically using fInterp and vInterp to make a widget follow our mouse (with smooth interpolation).md",
-    "pascal/Pascal wants to add.md",
-    "pascal/Creating and adding a widget to the viewport.md",
-    "misc/WIP - We are just getting started.md",
     "leon/Turn On Houdini Auto Save By Default.md",
     "leon/Smooth Credit Scrolling in After Effects.md",
     "leon/Leon wants to add.md",
     "leon/How to overcomplicate a website or how I set this blog up.md",
-    "leon/How to dejitter simulated lines (and draw them in the first place).md",
     "jan/Procedural Vertex Map to Poly Selection Conversion.md",
-    "hub/After Effects.md",
     "hub/Cinema 4D.md",
     "hub/Houdini.md",
     "hub/Octane.md",
     "hub/Redshift.md",
     "hub/Unreal Engine.md",
-    "resources/Good Redshift Resources.md",
-    "resources/Good Houdini Resources.md",
     "utility/Imprint.md",
     "projects/TAO.md",
     "hubs/Project Spotlight.md",

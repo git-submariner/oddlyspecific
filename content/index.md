@@ -6,7 +6,9 @@ aliases:
   - Intro
 ---
 
-This is the open journal by [Pasi](https://santaella.de/), [Jan](https://janeisenbach.de/portfolio) & [Leon](https://leonmonschauer.de/). We document our digital findings and learnings. Maybe it's useful for you!
+This is a knowledgebase by [Pasi](https://santaella.de/), [Jan](https://janeisenbach.de/portfolio) & [Leon](https://leonmonschauer.de/). We document our digital findings and learnings. Maybe it's useful for you!
+
+Basically it's a blog about things that are _oddlyspecific_.
 
 # News
 
@@ -31,7 +33,7 @@ If you have any questions, feel free to paste them below!
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="dark"
+        data-theme="preferred_color_scheme"
         data-lang="en"
         crossorigin="anonymous"
         async>

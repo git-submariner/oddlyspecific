@@ -24,7 +24,6 @@ Here you can find some resources that helped me learn and still help me understa
 ## Discord Channels
 - [3d Wizards](https://discord.gg/2kaUU6qQpc) - Nice community if you want to get your questions answered
 
-
 ---
 
 <script src="https://giscus.app/client.js"
