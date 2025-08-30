@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leon/How to overcomplicate a website or how I set this blog up.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "How to overcomplicate a website or how I set this blog up"
+              "title": "index"
+            }
+          },
+          {
+            "id": "a73cb7134c48acab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpad Draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Scratchpad Draft"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,17 +180,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e34da6b8ef660a5",
+  "active": "3791a2bb0178a389",
   "lastOpenFiles": [
-    "leon/outdated - How to overcomplicate a website or how I set this blog up.md",
     "leon/How to overcomplicate a website or how I set this blog up.md",
+    "img/Pasted image 20250730145000.png",
+    "index.md",
+    "img/Pasted image 20250730144603.png",
+    "Scratchpad Draft.md",
+    "leon/Leon wants to add.md",
+    "leon/outdated - How to overcomplicate a website or how I set this blog up.md",
     "leon/How to dejitter simulated lines (and draw them in the first place).md",
     "misc/WIP - We are just getting started.md",
     "jan/Procedural Vertex Map to Poly Selection Conversion.md",
     "hub/Houdini.md",
     "hub/Cinema 4D.md",
     "hub/After Effects.md",
-    "leon/Leon wants to add.md",
     "leon/Smooth Credit Scrolling in After Effects.md",
     "leon/Turn On Houdini Auto Save By Default.md",
     "pascal/Practically using fInterp and vInterp to make a widget follow our mouse (with smooth interpolation).md",
@@ -183,7 +202,6 @@
     "resources/Good Houdini Resources.md",
     "resources/Good Redshift Resources.md",
     "misc/Goals for the oddlyspecific knowledge base.md",
-    "index.md",
     "utility/Imprint.md",
     "hub/TouchDesigner.md",
     "pascal/Pascal wants to add.md",
@@ -197,13 +215,9 @@
     "img/finterp_ImageSetPosition.png",
     "img/fInterp_GetMouseOnViewport.png",
     "img/EventTickFinterp.png",
-    "img/CurrentValueFInterp.png",
-    "img/CreatingWidgetBlueprint.png",
     "hub/Octane.md",
     "hub/Redshift.md",
     "hub/Unreal Engine.md",
-    "projects/TAO.md",
-    "hubs/Project Spotlight.md",
     "about",
     "projects/experiments",
     "images",
